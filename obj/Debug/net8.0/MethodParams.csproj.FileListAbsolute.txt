@@ -1,0 +1,14 @@
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\bin\Debug\net8.0\MethodParams.exe
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\bin\Debug\net8.0\MethodParams.deps.json
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\bin\Debug\net8.0\MethodParams.runtimeconfig.json
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\bin\Debug\net8.0\MethodParams.dll
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\bin\Debug\net8.0\MethodParams.pdb
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\obj\Debug\net8.0\MethodParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\obj\Debug\net8.0\MethodParams.AssemblyInfoInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\obj\Debug\net8.0\MethodParams.AssemblyInfo.cs
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\obj\Debug\net8.0\MethodParams.csproj.CoreCompileInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\obj\Debug\net8.0\MethodParams.dll
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\obj\Debug\net8.0\refint\MethodParams.dll
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\obj\Debug\net8.0\MethodParams.pdb
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\obj\Debug\net8.0\MethodParams.genruntimeconfig.cache
+C:\Users\renwi\Desktop\CsharpProjects\MethodParams\obj\Debug\net8.0\ref\MethodParams.dll
